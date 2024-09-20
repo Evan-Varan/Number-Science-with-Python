@@ -1,0 +1,10 @@
+Name: Evan
+Date: 2024-09-20
+++++++++++++++
+Item 1: Banana (5)
+Item 2: Mango (6)
+Item 3: Peach (78)
+Item 4: Blargh (3)
+++++++++++++++
+Number of Items: 4
+++++ DONE ++++

@@ -1,0 +1,20 @@
+Name: Evan
+Number: 1234
+HW: 32,42,100,98,70
+Labs: 32,42,100,98,70
+Midterm Exam: 90
+Final Exam: 88
+Final Project: 78
+Overall Grade: 78
+Overall Letter Grade: C
+
+
+Name: Josh
+Number: 4556
+HW: 32,42,100,98,70
+Labs: 32,42,100,98,70
+Midterm Exam: 90
+Final Exam: 78
+Final Project: 66
+Overall Grade: 74
+Overall Letter Grade: C
